@@ -1,0 +1,73 @@
+header {
+	text-align: center;
+	background: url("https://wun.ac.uk/persistent/article_images/himalayas_jadu.jpeg");
+	background-size: cover;
+	color: white;
+}
+
+h1 {
+	font-size: 50px;
+	margin: 30px;
+}
+
+#logo {
+	margin: 30px 0 0 0;
+	border-radius: 50%;
+	height: 250px;
+    width: 290px;
+	border: 10px solid #FFFFFF;
+}
+
+#navbar {
+	background-color: #34495E;
+	padding: 20px;
+}
+#navbar li {
+	display: inline;
+	padding: 19px 30px 19px 30px;
+}
+#navbar a {
+	color: white;
+	text-decoration: none;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+}
+#navbar li:hover {
+	background-color: #D6EAF8;
+}
+
+body {
+	font-family: 'Oxygen', sans-serif;
+}
+
+article {
+	width: 65%;
+	padding: 10px;
+	margin: 0 auto;
+}
+h2 {
+	font-size: 30px;
+	margin: 0;
+}
+
+/* footer */
+footer {
+	margin: 40px 0 0 0;
+}
+
+.stripe {
+	display: block;
+	height: 40px;
+}
+#blue {
+	background-color: #AED6F1;
+}
+#navy {
+	background-color: #34495E;
+}
+#white {
+	background-color: #D6EAF8;
+}
+#aqua {
+	background-color: #2874A6;
+}
